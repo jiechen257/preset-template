@@ -1,5 +1,7 @@
 ## Existing Module
 
-vue3 + ts + vite
+Core: vue3 + pinia + vue router + ts + vite
 
-eslint + prettier + stylint + commitlint
+Lint: eslint + prettier + stylint + husky
+
+UI frameworks: [windiCSS](https://windicss.org/) + [Quasar design](http://www.quasarchs.com/)
