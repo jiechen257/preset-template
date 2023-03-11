@@ -1,13 +1,15 @@
 ## Template
-### vue3-ts
+Uniform package-manager: [pnpm](https://www.pnpm.cn/)
+
+### 1. vue3-ts
 vue3 + ts + eslint + prettier
 
-### vue3-ts-vite
+### 2. vue3-ts-vite
 vue3 + ts + vite
 
 eslint + prettier + stylint + commitlint
 
-### vue3-ts-vite-windiCSS-quasarUI
+### 3. vue3-ts-vite-windiCSS-quasarUI
 Core: vue3 + pinia + vue router + ts + vite
 
 Lint: eslint + prettier + stylint + husky
